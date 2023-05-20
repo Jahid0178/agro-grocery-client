@@ -18,9 +18,9 @@ function FastDeliveryCard() {
                 </h2>
                 <p className="text-sm leading-6">
                   There are many products you will find our shop, Choose your
-                  daily necessary product from our KachaBazar shop and get some
-                  special offer. See Our latest discounted products from here
-                  and get a special discount.
+                  daily necessary product from our Agro Grocery shop and get
+                  some special offer. See Our latest discounted products from
+                  here and get a special discount.
                 </p>
                 <Link
                   className="lg:w-1/4 hover:no-underline text-md font-medium inline-block mt-5 px-8 py-3 bg-emerald-500 text-center text-white rounded-full hover:text-white hover:bg-emerald-600"

@@ -1,7 +1,7 @@
 import React from "react";
 import { FooterData } from "../../fakeData/Footer";
 import { Link } from "react-router-dom";
-import LogoColor from "../../assets/img/logo-color.svg";
+import LogoColor from "../../assets/img/logo-color.png";
 import PaymentImg from "../../assets/img/payment-logo.png";
 function Footer() {
   return (
@@ -163,7 +163,11 @@ function Footer() {
                       maxWidth: "100%",
                     }}
                   >
-                    <img className=" w-[110px] h-10" src={LogoColor} />
+                    <img
+                      className="w-[110px] h-10"
+                      src={LogoColor}
+                      alt="Agro Grocery"
+                    />
                   </span>
                 </Link>
 
@@ -326,7 +330,11 @@ function Footer() {
                           maxWidth: "100%",
                         }}
                       >
-                        <img className=" w-full" src={PaymentImg} />
+                        <img
+                          className=" w-full"
+                          src={PaymentImg}
+                          alt="Payments"
+                        />
                       </span>
                     </li>
                   </ul>
@@ -337,7 +345,7 @@ function Footer() {
           <div className="mx-auto max-w-screen-2xl px-3 sm:px-10 flex justify-center py-4">
             <p className="text-sm text-gray-500 leading-6">
               Copyright 2022 @
-              <span className="text-emerald-500">KachaBazar</span>, All rights
+              <span className="text-emerald-500">Agro Grocery</span>, All rights
               reserved.
             </p>
           </div>

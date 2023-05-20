@@ -14,7 +14,14 @@ function SocialNetwork() {
           <button
             aria-label="facebook"
             className="react-share__ShareButton"
-            style={{backgroundColor: "transparent", border: "none",padding: "0px", font: "inherit", color: "inherit", cursor: "pointer"}}
+            style={{
+              backgroundColor: "transparent",
+              border: "none",
+              padding: "0px",
+              font: "inherit",
+              color: "inherit",
+              cursor: "pointer",
+            }}
           >
             <svg viewBox="0 0 64 64" width="32" height="32">
               <circle cx="32" cy="32" r="31" fill="#3b5998"></circle>
@@ -27,10 +34,17 @@ function SocialNetwork() {
         </li>
         <li className="flex items-center text-center border border-gray-100 rounded-full hover:bg-emerald-500 mr-2 transition ease-in-out duration-500">
           <button
-            quote="KachaBazar"
+            quote="Agro Grocery"
             aria-label="twitter"
             className="react-share__ShareButton"
-            style={{backgroundColor: "transparent", border: "none",padding: "0px", font: "inherit", color: "inherit", cursor: "pointer"}}
+            style={{
+              backgroundColor: "transparent",
+              border: "none",
+              padding: "0px",
+              font: "inherit",
+              color: "inherit",
+              cursor: "pointer",
+            }}
           >
             <svg viewBox="0 0 64 64" width="32" height="32">
               <circle cx="32" cy="32" r="31" fill="#00aced"></circle>
@@ -43,10 +57,17 @@ function SocialNetwork() {
         </li>
         <li className="flex items-center text-center border border-gray-100 rounded-full hover:bg-emerald-500 mr-2 transition ease-in-out duration-500">
           <button
-            quote="KachaBazar"
+            quote="Agro Grocery"
             aria-label="reddit"
             className="react-share__ShareButton"
-            style={{backgroundColor: "transparent", border: "none",padding: "0px", font: "inherit", color: "inherit", cursor: "pointer"}}
+            style={{
+              backgroundColor: "transparent",
+              border: "none",
+              padding: "0px",
+              font: "inherit",
+              color: "inherit",
+              cursor: "pointer",
+            }}
           >
             <svg viewBox="0 0 64 64" width="32" height="32">
               <circle cx="32" cy="32" r="31" fill="#ff4500"></circle>
@@ -59,10 +80,17 @@ function SocialNetwork() {
         </li>
         <li className="flex items-center text-center border border-gray-100 rounded-full hover:bg-emerald-500 mr-2 transition ease-in-out duration-500">
           <button
-            quote="KachaBazar"
+            quote="Agro Grocery"
             aria-label="whatsapp"
             className="react-share__ShareButton"
-            style={{backgroundColor: "transparent", border: "none",padding: "0px", font: "inherit", color: "inherit", cursor: "pointer"}}
+            style={{
+              backgroundColor: "transparent",
+              border: "none",
+              padding: "0px",
+              font: "inherit",
+              color: "inherit",
+              cursor: "pointer",
+            }}
           >
             <svg viewBox="0 0 64 64" width="32" height="32">
               <circle cx="32" cy="32" r="31" fill="#25D366"></circle>
@@ -75,10 +103,17 @@ function SocialNetwork() {
         </li>
         <li className="flex items-center text-center border border-gray-100 rounded-full hover:bg-emerald-500 mr-2 transition ease-in-out duration-500">
           <button
-            quote="KachaBazar"
+            quote="Agro Grocery"
             aria-label="linkedin"
             className="react-share__ShareButton"
-            style={{backgroundColor: "transparent", border: "none",padding: "0px", font: "inherit", color: "inherit", cursor: "pointer"}}
+            style={{
+              backgroundColor: "transparent",
+              border: "none",
+              padding: "0px",
+              font: "inherit",
+              color: "inherit",
+              cursor: "pointer",
+            }}
           >
             <svg viewBox="0 0 64 64" width="32" height="32">
               <circle cx="32" cy="32" r="31" fill="#007fb1"></circle>

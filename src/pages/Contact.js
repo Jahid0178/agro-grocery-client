@@ -40,8 +40,11 @@ function Contact() {
               </span>
               <h5 class="text-xl mb-2 font-bold">Email Us</h5>
               <p className="mb-0 text-base opacity-90 leading-7">
-                <a href="mailto:kachabazar@gmail.com" class="text-emerald-500">
-                  kachabazar@gmail.com{" "}
+                <a
+                  href="mailto:Agro Grocery@gmail.com"
+                  class="text-emerald-500"
+                >
+                  agrogrocery@gmail.com{" "}
                 </a>
                 Interactively grow empowered for process-centric total linkage.
               </p>
@@ -204,7 +207,6 @@ function Contact() {
                         type="text"
                         placeholder="Inter Your Subject"
                         class="py-2 px-4 md:px-5 w-full appearance-none border text-sm opacity-75 text-input rounded-md placeholder-body min-h-12 transition duration-200 focus:ring-0 ease-in-out bg-white border-gray-200 focus:outline-none focus:border-emerald-500 h-11 md:h-12"
-                        
                       ></input>
                     </div>
                   </div>

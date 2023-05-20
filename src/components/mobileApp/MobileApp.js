@@ -30,11 +30,11 @@ function MobileApp() {
           </div>
           <div className="text-center">
             <h3 className="text-xl md:text-2xl lg:text-3xl font-bold  mb-3">
-              Get Your Daily Needs From Our KachaBazar Store
+              Get Your Daily Needs From Our Agro Grocery Store
             </h3>
             <p className="text-base opacity-90 leading-7">
               There are many products you will find our shop, Choose your daily
-              necessary product from our KachaBazar shop and get some special
+              necessary product from our Agro Grocery shop and get some special
               offer.
             </p>
             <div className="mt-8 block lg:flex">
@@ -42,6 +42,7 @@ function MobileApp() {
                 className="mx-2"
                 target="_blank"
                 href="https://www.apple.com/app-store/"
+                rel="noreferrer"
               >
                 <span
                   style={{
@@ -66,6 +67,7 @@ function MobileApp() {
                 className="mx-2"
                 target="_blank"
                 href="https://play.google.com/store/apps"
+                rel="noreferrer"
               >
                 <span
                   style={{

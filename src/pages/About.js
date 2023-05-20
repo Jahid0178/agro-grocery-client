@@ -29,7 +29,7 @@ const About = () => {
           <div className="grid grid-flow-row lg:grid-cols-2 gap-4 lg:gap-16 ">
             <div>
               <h3 className="text-xl lg:text-3xl mb-2  font-semibold">
-                Welcome to our KachaBazar
+                Welcome to our Agro Grocery
               </h3>
               <div className="mt-3 text-base opacity-90 leading-7">
                 <p className="mb-4">
@@ -529,6 +529,6 @@ const About = () => {
       </div>
     </div>
   );
-}
+};
 
 export default About;
